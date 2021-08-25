@@ -30,9 +30,9 @@ const Coins = [
 ]
 
 ReactDOM.render(
-  <React.StrictMode>
+  
     <Main coins={Coins}/>
-  </React.StrictMode>,
+ ,
   document.getElementById('root')
 );
 
