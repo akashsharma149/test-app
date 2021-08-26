@@ -1,7 +1,5 @@
 import React, {Component} from 'react';
-// import NewPrice from './NewPrice';
 import CoinTable from './CoinTable';
-import '../App.css';
 import '../Stylesheet/styles.css'
 
 
